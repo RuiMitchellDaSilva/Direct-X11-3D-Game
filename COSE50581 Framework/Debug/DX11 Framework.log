@@ -1,0 +1,14 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+C:\Users\mizukami\Desktop\COSE50581 Framework\Lighting.fx(93,19-66): warning X3206: implicit truncation of vector type
+C:\Users\mizukami\Desktop\COSE50581 Framework\Lighting.fx(94,19-66): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\mizukami\Desktop\COSE50581 Framework\Debug\Lighting.cso
+  Application.cpp
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\mizukami\desktop\cose50581 framework\application.cpp(628): warning C4189: 'cubeMesh' : local variable is initialized but not referenced
+c:\users\mizukami\desktop\cose50581 framework\application.cpp(1099): warning C4189: 'blendFactor' : local variable is initialized but not referenced
+  DX11 Framework.cpp
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\mizukami\desktop\cose50581 framework\dx11 framework.cpp(10): warning C4316: 'Application' : object allocated on the heap may not be aligned 16
+  Generating Code...
+  DX11 Framework.vcxproj -> C:\Users\mizukami\Desktop\COSE50581 Framework\Debug\DX11 Framework.exe

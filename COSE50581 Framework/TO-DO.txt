@@ -1,0 +1,12 @@
+1: Race Track
+-Create proper sprite
+-barriers?
+
+2: Racing cars
+-headlights?
+
+3: Race Circuit Assets
+-Trees always face you (billboarding)
+
+4: Explanatary Report
+
